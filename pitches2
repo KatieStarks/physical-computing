@@ -1,5 +1,14 @@
-
-
+/* Project Title: 1Button3Leds
+ Katie Ballinger
+ DIGF 2B03 Physical Computing
+ OCAD University
+ Created on Mar 3rd/2014
+ 
+ Based on:
+ Calibration, Public Domain, http://arduino.cc/en/Tutorial/Calibration
+ ToneOutput, Tom Igoe, http://itp.nyu.edu/physcomp/Labs/ToneOutput
+*/
+ 
 #include "pitches.h"
 
 // These constants won't change:
